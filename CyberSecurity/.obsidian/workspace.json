@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "9ab3ad8ac67794fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c2533ed3dd7a8ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea861295bd72cf8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecurity/terminologies/information-vs-cybersecurity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "information-vs-cybersecurity"
+            }
+          },
+          {
+            "id": "6b4cc20969aa2a40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecurity/Industrial/Operational Technology OT/OT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OT"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09bdc8dc9c413831",
+    "type": "split",
+    "children": [
+      {
+        "id": "306223512a6939d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a6c6a4abbad59a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7c9a82ae46e2d1bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e62f0dd6314e1c17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9928cff2333e24c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f654dae7f839f306",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0453c8647228a763",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CyberSecurity/Industrial/Operational Technology OT/OT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c4a4cba4f1a277fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CyberSecurity/Industrial/Operational Technology OT/OT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c790a3e106a395ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c89171bebed2b473",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "08d8e2399b5e21c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CyberSecurity/Industrial/Operational Technology OT/OT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2a6c6a4abbad59a6",
+  "lastOpenFiles": [
+    "CyberSecurity/diagrams/Ot-system-downtimes.png",
+    "CyberSecurity/diagrams/cirtical-infrastructure.png",
+    "CyberSecurity/diagrams/ot-components.png",
+    "CyberSecurity/Industrial/Operational Technology OT/SCADA.md",
+    "CyberSecurity/Industrial/Operational Technology OT/OT.md",
+    "CyberSecurity/Industrial/Operational Technology OT/Untitled 1.md",
+    "CyberSecurity/terminologies/virus-worm-trojan.md",
+    "CyberSecurity/Industrial/Operational Technology OT",
+    "CyberSecurity/Industrial",
+    "CyberSecurity/terminologies/privacy-and-secrecy.md",
+    "CyberSecurity/terminologies/information-vs-cybersecurity.md",
+    "CyberSecurity/terminologies/cia.md",
+    "CyberSecurity/terminologies/assets.md",
+    "CyberSecurity/diagrams",
+    "CyberSecurity/diagrams/information-security-vs-cybersecurity.png",
+    "Welcome.md",
+    "CyberSecurity/terminologies",
+    "CyberSecurity"
+  ]
+}

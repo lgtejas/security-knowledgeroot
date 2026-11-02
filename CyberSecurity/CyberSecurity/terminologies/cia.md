@@ -1,0 +1,4 @@
+
+- Confidentiality
+- Integrity
+- Availaibility
