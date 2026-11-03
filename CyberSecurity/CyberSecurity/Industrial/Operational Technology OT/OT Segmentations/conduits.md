@@ -1,0 +1,5 @@
+- Used for information flow within and between zones
+- Two types - trusted conduits and untrusted conduit
+- Untrusted Conduit - used to communicate within the same zone , i.e in the same security level/requirement
+	- Uses additional security layers like authentication, encryption 
+- Trusted Conduit - used to communicate within zones which has different security level

@@ -1,0 +1,5 @@
+- It is the logical boundary of a zone
+- it is in this logical boundary we implement the security controls like,
+	- Intrusion detection system (IDS)
+	- Intrusion prevention system (IPS)
+- It is also at the logical boundary we use compensatory controls to support legacy/old OT systems. Some OT systems will be running in old hardware or software/OS stack where we cannot implement or has limitations in implementing security controls.

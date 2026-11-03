@@ -1,0 +1,1 @@
+![[purdue-model.png|700]]

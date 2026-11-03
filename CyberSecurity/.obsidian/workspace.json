@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity/Industrial/Operational Technology OT/OT.md",
+                "file": "CyberSecurity/Industrial/purdue-model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OT"
+              "title": "purdue-model"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity/Industrial/Operational Technology OT/OT.md",
+                "file": "CyberSecurity/Industrial/purdue-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity/Industrial/Operational Technology OT/OT.md",
+                "file": "CyberSecurity/Industrial/purdue-model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity/Industrial/Operational Technology OT/OT.md",
+                "file": "CyberSecurity/Industrial/purdue-model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -205,11 +205,21 @@
   },
   "active": "2a6c6a4abbad59a6",
   "lastOpenFiles": [
+    "CyberSecurity/diagrams/purdue-model.png",
+    "CyberSecurity/Industrial/Operational Technology OT/OT Segmentations/zones.md",
+    "CyberSecurity/Industrial/purdue-model.md",
+    "CyberSecurity/diagrams/zone-conduit-diagram.png",
+    "CyberSecurity/Industrial/Operational Technology OT/OT Segmentations/perimeters.md",
+    "CyberSecurity/Industrial/Operational Technology OT/OT Segmentations/conduits.md",
+    "CyberSecurity/Industrial/protocols.md",
+    "CyberSecurity/Industrial/Operational Technology OT/OT Segmentations",
+    "CyberSecurity/Industrial/Operational Technology OT/OT.md",
+    "CyberSecurity/diagrams/ot-vs-it.png",
+    "CyberSecurity/diagrams/ot-it-cia-triad.png",
     "CyberSecurity/diagrams/Ot-system-downtimes.png",
     "CyberSecurity/diagrams/cirtical-infrastructure.png",
     "CyberSecurity/diagrams/ot-components.png",
     "CyberSecurity/Industrial/Operational Technology OT/SCADA.md",
-    "CyberSecurity/Industrial/Operational Technology OT/OT.md",
     "CyberSecurity/Industrial/Operational Technology OT/Untitled 1.md",
     "CyberSecurity/terminologies/virus-worm-trojan.md",
     "CyberSecurity/Industrial/Operational Technology OT",

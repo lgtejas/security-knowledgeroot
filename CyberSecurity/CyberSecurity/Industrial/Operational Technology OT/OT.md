@@ -23,3 +23,11 @@
 
 ### Downtime
 ![[Ot-system-downtimes.png]]
+
+### CIA Triad
+
+![[ot-it-cia-triad.png]]
+
+### Key Takeaways
+
+![[ot-vs-it.png]]
